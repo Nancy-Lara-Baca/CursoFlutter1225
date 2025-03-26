@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:LaraCurso/Mi_Widget/Mi_Tarjeta.dart';
+import 'package:LaraCurso/Mi_Widget/dialogo_acerca_de.dart';
+//import 'package:LaraCurso/Mi_Widget/Mi_Tarjeta.dart';
 
 const Color darkBlue = Color(0xFF12202F);
 
@@ -21,7 +22,8 @@ class MiTarjeta extends StatelessWidget {
           title: const Text('Flutter Lara'),
           centerTitle: true,
         ),
-        body: LaTarjeta(),
+        //body: LaTarjeta(),
+        body: DialogoAcercaDe(),
       ),
     );
   }
