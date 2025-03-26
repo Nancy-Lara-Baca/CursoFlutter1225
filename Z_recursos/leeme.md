@@ -1,5 +1,5 @@
 ## Ejemplo card
-![la tarjeta](cap.jpg)
+![la tarjeta](Cap.jpg)
 
 ## Ejemplo Un Dialogo de Alerta
 ![la tarjeta](Dialogo.jpg)
